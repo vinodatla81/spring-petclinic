@@ -1,0 +1,4 @@
+ yum install git -y
+ yum search openjdk
+ yum install java-1.8.0-openjdk.x86_64
+ yum install maven -y
